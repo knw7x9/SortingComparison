@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs2235.algorithms.impl.SelectionSortTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-24T21:38:37" hostname="Katie-PC" time="0.001">
+  <properties/>
+  <testcase name="testSort" classname="edu.isu.cs2235.algorithms.impl.SelectionSortTest" time="0.0"/>
+  <testcase name="testSort_2" classname="edu.isu.cs2235.algorithms.impl.SelectionSortTest" time="0.0"/>
+  <testcase name="testSort_3" classname="edu.isu.cs2235.algorithms.impl.SelectionSortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
